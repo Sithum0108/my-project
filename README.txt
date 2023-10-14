@@ -1,9 +1,1 @@
-<html>
-<body>
-
-<h1> Assignment - 02 </h2>
-
-<p> This is the paragrapgh </p>
-
-</body>
-</html>
+Hi! I'm Sithum Hettiarachchi. This is my first repo
