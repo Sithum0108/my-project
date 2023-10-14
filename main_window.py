@@ -12,7 +12,7 @@ def validate_login():
         result_label.config(text="Invalid username or password")
 
 root = tk.Tk()
-root.title("Login Window")
+root.title("Main Window")
 
 username_label = tk.Label(root, text="Username:")
 username_label.pack()
