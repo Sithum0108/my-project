@@ -6,7 +6,7 @@ def register_student():
     department = department_entry.get()
     year = year_entry.get()
 
-  
+    #result
 
     result_label.config(text="Registration Successful")
 
